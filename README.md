@@ -1,2 +1,2 @@
-# Fashionhub
+# sample project
 ecommerce website
